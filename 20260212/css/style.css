@@ -28,7 +28,7 @@ header {
   display: flex; /* Flexboxレイアウトにする */
   align-items: center; /* 縦方向中央揃え */
   justify-content: center; /* 横方向中央揃え */
-  background: url("../image/bg.jpg")  center -200 / cover no-repeat;
+  background: url("../image/bg.jpg")  center top  / cover no-repeat;
 
 }
 
